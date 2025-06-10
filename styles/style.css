@@ -1,0 +1,39 @@
+
+
+.numbers{
+    background-color: lightgray;
+}
+
+.AC{
+    background-color: gray;
+}
+
+#inputBox{
+    background-color: gray;
+    color: white;
+    text-align: right;
+    width: 100%;
+    font-size: 2em;
+    border: 0px;
+}
+
+.operators{
+    background-color: orange;
+}
+
+table{
+    border-collapse: collapse;
+    text-align: center;
+    font: normal 3em Arial, helvetica, sans-serif;
+    color: white;
+}
+
+tr{
+    height: 16.02vh;
+    background-color: gray;
+}
+
+td{
+    width: 25vw;
+    border: 1px solid gray;
+}
